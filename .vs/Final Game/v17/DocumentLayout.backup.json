@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\Flicky.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\include\\Flicky.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\Flicky.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\Flicky.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\SpriteDemoManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\SpriteDemoManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\FieldManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\FieldManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\field.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\field.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\SpriteDemoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\include\\SpriteDemoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\include\\field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\FieldManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\include\\FieldManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\ShapeDraw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\ShapeDraw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\include\\Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\stateManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\stateManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9655EC-29FB-4CEC-B452-35DA406F2A9E}|OpenGLFramework\\OpenGLFramework.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\OpenGLFramework\\openGLFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A9655EC-29FB-4CEC-B452-35DA406F2A9E}|OpenGLFramework\\OpenGLFramework.vcxproj|solutionrelative:OpenGLFramework\\openGLFramework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\BallManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\src\\BallManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF02D04-D40C-4E0E-A64A-9532D902E7AC}|Game\\Game.vcxproj|solutionrelative:Game\\include\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flicky.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\Flicky.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\Flicky.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\Flicky.cpp",
+              "RelativeToolTip": "Game\\src\\Flicky.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T21:15:01.586Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShapeDraw.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\ShapeDraw.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\ShapeDraw.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\ShapeDraw.cpp",
+              "RelativeToolTip": "Game\\src\\ShapeDraw.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwAwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T01:08:45.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "object.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\object.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\object.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\object.cpp",
+              "RelativeToolTip": "Game\\src\\object.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T17:08:07.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\game.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\game.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\game.cpp",
+              "RelativeToolTip": "Game\\src\\game.cpp",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T00:31:31.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "openGLFramework.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\OpenGLFramework\\openGLFramework.cpp",
+              "RelativeDocumentMoniker": "OpenGLFramework\\openGLFramework.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\OpenGLFramework\\openGLFramework.cpp",
+              "RelativeToolTip": "OpenGLFramework\\openGLFramework.cpp",
+              "ViewState": "AQIAAKIBAAAAAAAAAAAswMIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T00:04:08.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "field.h",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\field.h",
+              "RelativeDocumentMoniker": "Game\\include\\field.h",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\field.h",
+              "RelativeToolTip": "Game\\include\\field.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-18T16:08:11.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "stateManager.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\stateManager.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\stateManager.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\stateManager.cpp",
+              "RelativeToolTip": "Game\\src\\stateManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T19:42:29.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flicky.h",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\Flicky.h",
+              "RelativeDocumentMoniker": "Game\\include\\Flicky.h",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\Flicky.h",
+              "RelativeToolTip": "Game\\include\\Flicky.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T21:14:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "field.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\field.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\field.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\field.cpp",
+              "RelativeToolTip": "Game\\src\\field.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T18:41:15.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Platform.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\Platform.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\Platform.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\Platform.cpp",
+              "RelativeToolTip": "Game\\src\\Platform.cpp",
+              "ViewState": "AQIAACMAAAAAAAAAAADgvzAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T00:40:51.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FieldManager.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\FieldManager.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\FieldManager.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\FieldManager.cpp",
+              "RelativeToolTip": "Game\\src\\FieldManager.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T16:31:15.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FieldManager.h",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\FieldManager.h",
+              "RelativeDocumentMoniker": "Game\\include\\FieldManager.h",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\FieldManager.h",
+              "RelativeToolTip": "Game\\include\\FieldManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-18T16:08:33.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Physics.h",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\Physics.h",
+              "RelativeDocumentMoniker": "Game\\include\\Physics.h",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\Physics.h",
+              "RelativeToolTip": "Game\\include\\Physics.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-18T20:30:03.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpriteDemoManager.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\SpriteDemoManager.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\SpriteDemoManager.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\SpriteDemoManager.cpp",
+              "RelativeToolTip": "Game\\src\\SpriteDemoManager.cpp",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAkwEQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T00:59:04.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpriteDemoManager.h",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\SpriteDemoManager.h",
+              "RelativeDocumentMoniker": "Game\\include\\SpriteDemoManager.h",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\SpriteDemoManager.h",
+              "RelativeToolTip": "Game\\include\\SpriteDemoManager.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T01:15:09.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BallManager.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\BallManager.cpp",
+              "RelativeDocumentMoniker": "Game\\src\\BallManager.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\src\\BallManager.cpp",
+              "RelativeToolTip": "Game\\src\\BallManager.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T00:04:43.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Physics.cpp",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\Physics.cpp",
+              "RelativeDocumentMoniker": "Game\\Physics.cpp",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\Physics.cpp",
+              "RelativeToolTip": "Game\\Physics.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T20:30:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\game.h",
+              "RelativeDocumentMoniker": "Game\\include\\game.h",
+              "ToolTip": "D:\\GitHub Zone\\Flicky-In-C-OpenGL\\Game\\include\\game.h",
+              "RelativeToolTip": "Game\\include\\game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-20T23:09:39.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

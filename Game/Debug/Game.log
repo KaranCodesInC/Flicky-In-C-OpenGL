@@ -1,0 +1,20 @@
+﻿  Physics.cpp
+  ball.cpp
+  BallManager.cpp
+  field.cpp
+  FieldManager.cpp
+  Flicky.cpp
+  game.cpp
+  keyProcess.cpp
+  object.cpp
+  Platform.cpp
+  random.cpp
+  ShapeDraw.cpp
+  SpriteDemoManager.cpp
+  stateManager.cpp
+  Generating Code...
+soil.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'soil.lib(image_helper.obj)' or at ''; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'soil.lib(SOIL.obj)' or at ''; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'soil.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+  Game.vcxproj -> D:\GitHub Zone\Flicky-In-C-OpenGL\Debug\Game.exe
